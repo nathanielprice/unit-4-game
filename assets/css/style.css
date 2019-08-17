@@ -1,7 +1,11 @@
 * {
     box-sizing: border-box;
 }
-
+body {
+    background-image: url("images/Mountain.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .container {
     width: 60%;
     background-color: transparent;
@@ -14,7 +18,7 @@
   }
 
 .row {
-    background-color: rgb(145, 228, 139);
+    background-color: rgb(193, 226, 191);
     color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top; 5px;
